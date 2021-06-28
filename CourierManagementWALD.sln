@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourierManagementWALD", "CourierManagementWALD\CourierManagementWALD.csproj", "{0F8D4D5F-DEF8-4742-8F61-610CFF8A061A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourierManagementWALD.DL", "CourierManagementWALD.DL\CourierManagementWALD.DL.csproj", "{4A279716-6549-4376-9330-F65B7C80977B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourierManagementWALD.BL", "CourierManagementWALD.BL\CourierManagementWALD.BL.csproj", "{A6E50E83-A9E7-4A5F-8EFD-DFCFA63A2C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8D4D5F-DEF8-4742-8F61-610CFF8A061A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8D4D5F-DEF8-4742-8F61-610CFF8A061A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8D4D5F-DEF8-4742-8F61-610CFF8A061A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8D4D5F-DEF8-4742-8F61-610CFF8A061A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A279716-6549-4376-9330-F65B7C80977B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A279716-6549-4376-9330-F65B7C80977B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A279716-6549-4376-9330-F65B7C80977B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A279716-6549-4376-9330-F65B7C80977B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E50E83-A9E7-4A5F-8EFD-DFCFA63A2C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E50E83-A9E7-4A5F-8EFD-DFCFA63A2C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E50E83-A9E7-4A5F-8EFD-DFCFA63A2C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E50E83-A9E7-4A5F-8EFD-DFCFA63A2C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C2DC39-4F95-48E5-9052-BF3CBB5FC9A6}
+	EndGlobalSection
+EndGlobal
